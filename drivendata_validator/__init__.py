@@ -1,1 +1,1 @@
-from drivendata_validator import *
+from .drivendata_validator import *
